@@ -15,6 +15,8 @@ if (score < 0){
 }
 })
 
+// i edited here 
+
 item[1].addEventListener('click', () => {
     score = 0;
     zero.textContent = score;
